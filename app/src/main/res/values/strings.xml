@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dogglers</string>
+    <string name="sport_type">Type: %1$s</string>
+    <string name="sport_spek">Spek: %1$s</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="grid">Grid</string>
+</resources>
